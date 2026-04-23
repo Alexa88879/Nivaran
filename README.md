@@ -16,14 +16,14 @@ Nivaran empowers citizens to report various local problems such as potholes, gar
 - Integrated Google Maps with geo-tagging and live updates
 - Designed scalable NoSQL schema for multi-user interaction
 
-  ## My Contribution
-- Developed core mobile application features using Flutter including issue reporting, tracking, and user interaction flows  
-- Integrated Firebase Authentication (Email/Password, Google) and implemented secure user session management  
-- Designed and implemented Firestore database schema for real-time issue updates, comments, and user data  
-- Built role-based access control (RBAC) system for citizens and officials with separate UI flows  
-- Integrated Google Maps and geolocation APIs for geo-tagging and location-based issue visualization  
-- Implemented image upload pipeline using Firebase Storage with optimized handling for multiple images  
-- Developed real-time notification flow using Firebase Cloud Messaging (FCM)  
+## Contribution
+- Developed core mobile application features using Flutter including issue reporting, tracking, and user interaction flows
+- Integrated Firebase Authentication (Email/Password, Google) and implemented secure user session management
+- Designed and implemented Firestore database schema for real-time issue updates, comments, and user data
+- Built role-based access control (RBAC) system for citizens and officials with separate UI flows
+- Integrated Google Maps and geolocation APIs for geo-tagging and location-based issue visualization
+- Implemented image upload pipeline using Firebase Storage with optimized handling for multiple images
+- Developed real-time notification flow using Firebase Cloud Messaging (FCM)
 - Structured application using Provider-based state management and modular service architecture
   
 ## Features
